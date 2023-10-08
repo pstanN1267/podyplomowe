@@ -1,3 +1,3 @@
 Program liczy pole kwadratu na podstawie podanej długości boku
 
-![obraz kwadratu](https://szaloneliczby.pl/rys/matematyka-122.png)
+![obraz kwadratu](http://www.pole-kola.pl/wp-content/uploads/2015/03/kwadrat.jpg)http://www.pole-kola.pl/wp-content/uploads/2015/03/kwadrat.jpg)
