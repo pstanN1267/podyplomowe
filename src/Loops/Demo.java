@@ -11,11 +11,18 @@ public class Demo {
                 System.out.println(y);
             }
         }
-
-        int a =7 ;
-        if (a > 10 ){
-            System.out.println(a + " jest większe od 10");
+        {
+            int a = 0;
+            if (a > 0) {
+                System.out.println(a + " jest większe od zera");
+            } else if (a < 0) {
+                System.out.println(a + " jest mniejsze od zera");
+            } else {
+                System.out.println("a jest równe zeru");
+            }
         }
+
+
 
 
     } // koniec bloku
