@@ -10,7 +10,8 @@ public class zjazd2 {
         String name = "Piotr";
         String surname = "Stanik";
         int age = 30;
-
+        int liczba = 12;
         System.out.println("Nazywam się " + name + " " + surname + " i mam " + age + " lat.");
+
     }
 }
