@@ -12,7 +12,7 @@ public class LoopBinaryConverter {
 //        StringTokenizer strBinary = "00111111";
         //
 
-        String binary = "1101";
+            String binary = "1101101111100";
         Long result = 0L;
 
         // 1 1 0 1
