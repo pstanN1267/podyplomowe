@@ -34,6 +34,7 @@ public class DayCounter {
             case 9:
             case 11:
                 count = 30;
+                break;
             case 2:
                 if (year % 4 == 0){
                     count = 29;
