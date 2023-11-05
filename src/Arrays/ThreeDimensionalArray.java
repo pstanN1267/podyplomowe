@@ -15,7 +15,7 @@ public class ThreeDimensionalArray {
 ////        int[][] multiArray = {arr1, arr2 , arr3};
 
 
-        int [][][]  multi = {{{1, 3,5,3}},{{71,124},{2,415,65}}};
+        int [][][]  multi = {{{1, 3,5,3}},{{71,124},{2,415,65}}}; // sprawdzic jak wyglada w rzeczywistosc tablica tablic
 
         for (int i = 0; i < multi.length; i++) {
             for (int j  = 0; j <multi[i].length ; j++) {
