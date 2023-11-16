@@ -21,14 +21,14 @@ LoopBinaryConverter {
 
         for (int i = 0; i < binary.length(); i++) {
             int reverseIndex = binary.length() - 1 - i;
-            System.out.println("rev ind " + reverseIndex);
+//            System.out.println("rev ind " + reverseIndex);
             char c = binary.charAt(reverseIndex);
-            System.out.println("c " + c);
+//            System.out.println("c " + c);
             int bit = Character.getNumericValue(c);
-            System.out.println("bit " + bit );
+//            System.out.println("bit " + bit );
 
 
-           result += bit * (int)Math.pow(2, i);
+           result += bit * (long)Math.pow(2, i);
 
         }
         System.out.println(binary + " = " + result);
