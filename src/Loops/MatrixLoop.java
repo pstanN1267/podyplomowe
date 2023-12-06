@@ -3,7 +3,7 @@ package Loops;
 public class MatrixLoop {
     public static void main(String[] args) {
 
-        int n = 1;
+        int n = 12;
         System.out.println("n = " + n + "   matrix");
         System.out.println("-----------------");
         for (int i = 1; i < n + 1; i++) { // najpierw zewnętrzna pętla się wykonuje pełną ilość razy, następnie wewnetrzna
