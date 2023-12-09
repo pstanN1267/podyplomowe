@@ -1,4 +1,4 @@
-package Loops;
+package zjazd2.Classes.Loops;
 
 import java.util.Scanner;
 

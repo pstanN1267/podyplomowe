@@ -1,4 +1,4 @@
-package Loops;
+package zjazd2.Classes.Loops;
 
 public class
 LoopBinaryConverterLab7popr {

@@ -1,6 +1,4 @@
-package Arrays;
-
-import java.awt.*;
+package zjazd2.Classes.Arrays;
 
 public class Demo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Classes;
+package zjazd2.Classes;
 
 import java.awt.*;
 

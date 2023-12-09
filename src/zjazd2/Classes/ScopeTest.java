@@ -1,4 +1,4 @@
-package Classes;
+package zjazd2.Classes;
 
 public class ScopeTest {
     int test = 10;

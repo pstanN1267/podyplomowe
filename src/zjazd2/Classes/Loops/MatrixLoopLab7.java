@@ -1,4 +1,4 @@
-package Loops;
+package zjazd2.Classes.Loops;
 
 public class MatrixLoopLab7 {
     public static void main(String[] args) {

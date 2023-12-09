@@ -1,4 +1,4 @@
-package Arrays;
+package zjazd2.Classes.Arrays;
 
 public class CounterLab8 {
     public static void main(String[] args) {
